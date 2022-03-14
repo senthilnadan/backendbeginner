@@ -4,6 +4,7 @@
     "express": "^4.14.0"
   },
   "author": "Vishalakshi Senthilnadan",
+  "description": "This project is to learn backend by free Code Camp",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
